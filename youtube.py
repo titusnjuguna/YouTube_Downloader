@@ -1,7 +1,7 @@
 #importing libraries
 from tkinter import *
 from pytube import YouTube
-from urllib.request import *
+
 
 root = Tk()
 root.geometry('500x300')
